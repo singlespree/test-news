@@ -1,0 +1,13 @@
+.layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.children {
+  margin-top: 2.875rem;
+  margin-left: 14.625rem;
+}

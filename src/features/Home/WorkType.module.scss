@@ -1,0 +1,14 @@
+.workType {
+  height: 2.75rem;
+  display: flex;
+  align-items: center;
+  border-bottom: var(--default-border);
+  background-color: var(--black-27);
+}
+
+.workItem {
+  padding: 0.75rem 0.9375rem;
+  border-right: var(--default-border);
+  color: var(--white);
+  font-size: 1.125rem;
+}
